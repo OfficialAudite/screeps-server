@@ -12,7 +12,7 @@ So to launch the server, it will only start the server.
 Mods and bots are managed at startup by checking your `config.yml`.
 `npm` is only invoked if changes are made to your `config.yml`.
 
-## Getting started
+## Getting started 
 
 ### Prerequisites
 
